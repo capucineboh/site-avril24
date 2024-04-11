@@ -1,0 +1,28 @@
+body {
+    background-image: url(./images/organique.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+}
+.header {
+    color: pink;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    background-color: blue;
+    width: auto;
+    padding-inline : 25%;
+    padding-block: 10px;
+    position: sticky;
+
+}
+li {
+    display: inline;
+}
+a {
+    display: inline-block;
+    padding: 8px;
+    background-color: #dddddd;
+}
